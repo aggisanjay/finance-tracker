@@ -206,4 +206,7 @@ Expected Response (200 OK):
   }
 ]
 
+Screenshots
+1.register:(https://github.com/user-attachments/assets/88016be5-dbd9-44cb-965c-b3f186d5c84d)
+
 
