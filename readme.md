@@ -208,5 +208,17 @@ Expected Response (200 OK):
 
 Screenshots
 1.register:(https://github.com/user-attachments/assets/88016be5-dbd9-44cb-965c-b3f186d5c84d)
+2.Login:(https://github.com/user-attachments/assets/9cb29d45-cac8-4ac1-8982-f249e6d22148)
+3.Add a New Transaction:(https://github.com/user-attachments/assets/a2a250a9-e64e-4b17-a9cc-a5f51ab117f3)
+4.Fetch All Transactions (with Pagination):(https://github.com/user-attachments/assets/79cf0254-6ae2-4fd1-a759-e40741765173)
+5.Fetch a Single Transaction by ID:(https://github.com/user-attachments/assets/3055ffaa-3977-4e0c-bfb5-98446422941b)
+6.Update a Transaction:(https://github.com/user-attachments/assets/e23051ce-6821-457d-be84-2d5f19bdd8c4)
+7.Delete a Transaction:(https://github.com/user-attachments/assets/2babf115-9462-482e-9f5c-f4d41447c043)
+
+
+
+
+
+
 
 
